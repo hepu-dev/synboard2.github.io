@@ -47,6 +47,14 @@
   font-size: 40px;
 }
 
+.jumbotron .text2 {
+    color: #fff;
+    margin-top: 100px;
+    font-weight: 100;
+    font-size: 30px;
+}
+  
+
 .jumbotron .text span {
   font-weight: 500;
   color: #ff1493;
